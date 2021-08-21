@@ -1,0 +1,115 @@
+#navdiv p{
+  display: inline-block;
+  color:#191970;
+  text-shadow: black 0 0 10px;
+}
+#navdiv p:hover{
+  text-shadow: #000000 0px 0px 2px; 
+}
+#navdiv nav div ul li a{
+  color: #191970;
+  font-family: Comic Sans;
+}
+
+#navdiv nav div a{
+  color:#191970;
+  font-family: Comic Sans;
+}
+#navdiv nav div a:hover{
+  color:red;
+  text-shadow: blue 0px 0px 2px;
+}
+section{
+  width:100%;
+  height:4000px;
+  background-color: #FFEBCD;
+  padding:7%; }
+#inform{
+  color:#8B0000;
+  width:60%;
+  height:400px;
+  font-family: Bookman;
+  float:left;
+}
+p{
+  color:#000000;
+  font-size:18px;
+}
+#with_img{
+  float:left;
+}
+#image{
+  width:35%;
+  height:400px;
+  float:left;
+  margin-left:3%;
+  transition: all 0.7s ease-in-out;
+  z-index:2;
+}
+#acol p {
+  text-align:center;
+  font-size:20px;
+  color:#191970;
+}
+img{
+
+  width:70%;
+ 
+
+}
+
+table tbody{
+  color:black;
+  background-color: #778899;
+}
+tbody tr{
+  transition: all 0.7s ease-in-out;
+}
+
+tbody tr:hover {
+
+  background: #800000; 
+}
+thead{
+  color:  #800000;
+}
+.mphoto{
+  width:200px;
+  height:300px;
+  float:left;
+  margin: 5% 5% 0% 5%;
+}
+
+#with_img {
+  margin-left:10%;
+  color:#800000;
+}
+.nam_sur{
+  width:200px;
+  float:left;
+  color:#0000FF;
+  margin-left: 9%;
+  font-family:Bookman;
+}
+#last_div{
+  margin-right:50%;
+  margin-top:1%;
+}
+.container {
+  clear: both;
+}
+.container .pagination {
+margin-left:45%;
+}
+
+#Mymap{
+  clear:both;
+  width:100%;
+  padding:5%;
+  font-family: Bookman;
+  text-align:center;
+}
+h1{
+  color:orange;
+  float:left;
+}
